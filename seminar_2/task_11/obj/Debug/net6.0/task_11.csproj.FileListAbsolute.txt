@@ -1,0 +1,15 @@
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_11\bin\Debug\net6.0\task_11.exe
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_11\bin\Debug\net6.0\task_11.deps.json
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_11\bin\Debug\net6.0\task_11.runtimeconfig.json
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_11\bin\Debug\net6.0\task_11.dll
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_11\bin\Debug\net6.0\task_11.pdb
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_11\obj\Debug\net6.0\task_11.csproj.AssemblyReference.cache
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_11\obj\Debug\net6.0\task_11.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_11\obj\Debug\net6.0\task_11.AssemblyInfoInputs.cache
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_11\obj\Debug\net6.0\task_11.AssemblyInfo.cs
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_11\obj\Debug\net6.0\task_11.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_11\obj\Debug\net6.0\task_11.dll
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_11\obj\Debug\net6.0\refint\task_11.dll
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_11\obj\Debug\net6.0\task_11.pdb
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_11\obj\Debug\net6.0\task_11.genruntimeconfig.cache
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_11\obj\Debug\net6.0\ref\task_11.dll

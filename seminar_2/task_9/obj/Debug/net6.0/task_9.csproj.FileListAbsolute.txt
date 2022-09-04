@@ -1,0 +1,15 @@
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_9\bin\Debug\net6.0\task_9.exe
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_9\bin\Debug\net6.0\task_9.deps.json
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_9\bin\Debug\net6.0\task_9.runtimeconfig.json
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_9\bin\Debug\net6.0\task_9.dll
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_9\bin\Debug\net6.0\task_9.pdb
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_9\obj\Debug\net6.0\task_9.csproj.AssemblyReference.cache
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_9\obj\Debug\net6.0\task_9.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_9\obj\Debug\net6.0\task_9.AssemblyInfoInputs.cache
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_9\obj\Debug\net6.0\task_9.AssemblyInfo.cs
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_9\obj\Debug\net6.0\task_9.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_9\obj\Debug\net6.0\task_9.dll
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_9\obj\Debug\net6.0\refint\task_9.dll
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_9\obj\Debug\net6.0\task_9.pdb
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_9\obj\Debug\net6.0\task_9.genruntimeconfig.cache
+D:\GeekBrains\Знакомство с языками программирования (лекции)\Семинары\C#\HomeWork\seminar_2\task_9\obj\Debug\net6.0\ref\task_9.dll

@@ -4,7 +4,7 @@
 int[] array = new int[8];
 Console.WriteLine("Введите элементы массива:");
    
-for (int n = 0; n < 8; n++)
+for (int  n = 0; n < 8; n++)
 {
     array[n] = Convert.ToInt32(Console.ReadLine());
 }

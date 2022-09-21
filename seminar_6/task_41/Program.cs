@@ -11,10 +11,12 @@ bool flag = true;
 
 while (flag == true) 
 {    
-    string n = Console.ReadLine();
+    string n = Console.ReadLine() ?? "";   // ?? "" --избавляемся от NUL
+    // string n = Console.ReadLine();
 
     if (n != "stop" ) 
         {        
+            // int.TryParse(n, out int nn);
             int r = Convert.ToInt32(n) ;      
             if (r > 0)
                 {

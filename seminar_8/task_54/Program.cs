@@ -47,15 +47,6 @@ void PrintMatrix(int[,] matrix)
     }
 }
 
-// void Sort(int[,] matrix)
-// {
-//     for(int i = 0; i < matrix.GetLength(1); i++)
-//     {
-//         int temp = matrix[0, i];
-//         matrix[0, i] = matrix[matrix.GetLength(0) - 1, i];
-//         matrix[matrix.GetLength(0) - 1, i] = temp;
-//     }
-// }
 
 void Sort(int[,] matrix)
 {
